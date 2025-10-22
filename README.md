@@ -1,4 +1,4 @@
-# OpenAquaponics Container Initiative
+# Open Aquaponics Container Initiative
 
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](https://cern-ohl.web.cern.ch/)
 [![WIP](https://img.shields.io/badge/Status-WIP-yellow.svg)](https://github.com/yourusername/OpenAquaponicsContainer)
