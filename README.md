@@ -88,7 +88,7 @@ A modular aquaponics unit in a recycled container with a greenhouse, leveraging:
 This initiative is a scalable solution to urban food insecurity, offering a platform for resilience, education, and sustainability. We seek $30,000 in seed funding for a pilot, with matching opportunities. Contact DeMoD LLC to align with your funding priorities.
 
 **8.0 Team and Acknowledgments**
-- **Lead**: DeMoD LLC Engineering Team.
+- **Lead**: DeMoD LLC Engineering Team (Just Asher LeRoy).
 - **Acknowledgments**: Special credit to **Asher LeRoy** for technical design refinements and contributions to automation, including integration of the HydraMesh/DCF protocol.
 
 **9.0 Appendices**
